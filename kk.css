@@ -1,0 +1,12 @@
+h1 {
+	color : rgb(255, 255, 255);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+	color : rgb(0, 0, 0);
+	background-color : rgb(23, 175, 180);
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+body {
+    background-image: url("https://i1.sndcdn.com/artworks-iaQos2rJmrG61zS3-e2TwrA-t500x500.jpg")
+}
